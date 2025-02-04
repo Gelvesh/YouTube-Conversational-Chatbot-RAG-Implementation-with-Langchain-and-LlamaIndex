@@ -20,5 +20,5 @@ This project implements a **RAG (Retrieval-Augmented Generation)** Q&A chatbot f
   - youtube-transcript-api
   - OpenAI (for API access)
 
-Run the code:
+## Run the code:
 streamlit run you-tube-chat.py
